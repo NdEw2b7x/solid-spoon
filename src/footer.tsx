@@ -22,7 +22,13 @@ export default function Footer({ selectedCard, onSelectCard }: FooterProps) {
             type="button"
             className={selectedCard === value ? 'active' : undefined}
             aria-pressed={selectedCard === value}
-            onClick={() => onSelectCard(value)}
+            onClick={() => {
+              window.scrollTo({
+                top: 0,
+                behavior: 'smooth',
+              })
+              onSelectCard(value)
+            }}
             key={value}
           >
             {label}

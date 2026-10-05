@@ -25,8 +25,8 @@ export default function App() {
           <div key={id} data-container="card" data-card={card}>
             <div className="card-title">{name}</div>
             <div className="card-img">
-              {img.map((src) => (
-                <img src={src} alt={`${name} 카드`} loading="lazy" height="160" key={src} />
+              {img.map(src => (
+                <img src={src} alt={name} loading="lazy" height="160" key={src} />
               ))}
             </div>
             <div className="card-summary">
@@ -37,7 +37,7 @@ export default function App() {
             </div>
             <div className="card-bottom">
               {contents.map((content, index) => (
-                <span key={`${content}-${index}`}>{content}</span>
+                <span key={`${content}-${index}`}>{`${content}`}</span>
               ))}
             </div>
             <div className="card-url">
