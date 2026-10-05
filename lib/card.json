@@ -1,0 +1,1315 @@
+[
+  {
+    "id": 500107,
+    "name": "카드의정석2 SOLID",
+    "card": "credit",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/8/26/16906000-edbd-4774-98c1-4383524ab485.png"],
+    "fee": 15000,
+    "release": "2026-09-30",
+    "contents": [
+      "국내/해외 가맹점 1.2% 청구할인",
+      "※ 전월 실적 조건 없음 ※ 할인 한도 제한 없음",
+      "국내 가맹점 2~3개월 무이자 할부 제공",
+      "※ 건당 5만원 이상 결제 시"
+    ]
+  },
+  {
+    "id": 500104,
+    "name": "카드의정석2 SPIKE CHECK",
+    "card": "check",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/9/15/ee4888c4-860c-4060-9f08-85fffa9ad5fe.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/9/15/1ff7da53-abc9-4df2-8c64-67d2657aead1.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/9/15/7917bfe3-22fa-423a-bc37-1a9cc2315cad.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/9/15/54914944-6dc7-4522-a2b9-6d1b6fdf3a27.png"
+    ],
+    "fee": 0,
+    "release": "2026-09-10",
+    "contents": [
+      "프로배구 입장권 30% 캐시백",
+      "※전월실적 20만원 이상 시 제공",
+      "배구 직관을 위한 식음매장 및 MD 30% 캐시백",
+      "※전월실적 20만원 이상 시 제공",
+      "생활비 (외식/편의점/교통/티켓예매) 3% 캐시백",
+      "※전월실적 20만원 이상 시 제공"
+    ]
+  },
+  {
+    "id": 500103,
+    "name": "카드의정석2 SPIKE",
+    "card": "plcc",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/9/11/9e8809a5-ad7b-4105-a2c5-d91059e98030.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/9/11/2b62baee-0846-4fd5-bf6c-af353ecb9242.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/9/11/58db6528-6dd6-4f58-92c4-e49d21ca5ead.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/9/15/aee6e9ed-41f2-4487-86ea-1864d792f6ac.png"
+    ],
+    "fee": 22000,
+    "release": "2026-09-03",
+    "contents": [
+      "프로배구 입장권 50% 청구할인",
+      "※전월실적 30만원 이상 시 제공",
+      "배구 직관을 위한 식음매장 및 MD 50% 청구할인",
+      "※전월실적 30만원 이상 시 제공",
+      "생활비 (외식/편의점/교통/티켓예매) 5% 청구할인",
+      "※전월실적 30만원 이상 시 제공"
+    ]
+  },
+  {
+    "id": 500095,
+    "name": "바디프랜드 Platinum 우리카드",
+    "card": "plcc",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/8/6/75a5aba6-ff1f-4ac5-af98-a3f032e90517.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/8/13/7f2ac2a6-9af9-4101-a493-87adbcf5d7b9.png"
+    ],
+    "fee": 45000,
+    "release": "2026-09-01",
+    "contents": [
+      "바디프랜드 렌탈요금 자동납부시 청구할인",
+      "※ 전월실적 100만원 이상시 제공",
+      "THE LOUNGE 서비스",
+      "※ 전월실적 100만원 이상시 제공",
+      "LIFE 영역 대상가맹점 10% 청구할인",
+      "※ 전월실적 100만원 이상시 제공"
+    ]
+  },
+  {
+    "id": 500101,
+    "name": "QWERTY 우리카드 체크",
+    "card": "check",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/6/30/4a85918e-303c-4de6-95cc-bf028cbe4bbe.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/6/30/2b0dd415-c1db-41f0-9759-7b02a3363f69.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/6/30/1fe009c4-c3d1-4e8d-93fe-1ab1bafca3d1.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/6/30/a7b2c836-708c-49b5-ad16-c5a7a7c664fd.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/6/30/b667c2ae-4b60-4dfe-92a9-974604cade06.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/6/30/acf22ce0-f69b-457a-9b24-ea339c9bdfce.png"
+    ],
+    "fee": 0,
+    "release": "2026-07-13",
+    "contents": [
+      "온라인쇼핑, 간편결제 5% 캐시백",
+      "전월실적 20만원 이상 시 건당 최대 1천원까지 제공",
+      "스타벅스 사이렌오더, 배달 5% 캐시백",
+      "전월실적 20만원 이상 시 건당 최대 1천원까지 제공",
+      "OTT, 공연티켓 5% 캐시백",
+      "전월실적 20만원 이상 시 건당 최대 1천원까지 제공"
+    ]
+  },
+  {
+    "id": 500049,
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/6/2/d0a55637-78a3-4de9-a6a7-aa16a5579276.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/6/2/3fe3c1d5-60e7-46e9-9258-3229061d4b71.png"
+    ],
+    "name": "the OPUS blue",
+    "card": "prm",
+    "fee": 300000,
+    "release": "2026-06-18",
+    "contents": [
+      "프리미엄 바우처(연1회, 택1)",
+      "①할인형 바우처(1차년도 21만원, 2차년도 23만원, 3차년도이상 25만원 차등 혜택)<br>②신세계 상품권 20만원 모바일 교환권<br>※ 국내 이용실적 초년도 100만원, 차년도이후 1200만원 이상 시 제공",
+      "국내 가맹점 1%, 일상 및 특별 3% 포인트 적립",
+      "일상(백화점, 아울렛, 대형마트 등) 및 특별(항공, 호텔, 해외 등)<br>※ 전월 국내외 이용실적 50만원 이상 시 제공",
+      "마티나골드 및 국내외 공항라운지 무료(본인+동반1인)",
+      "통합 월 2회 연 4회<br>※ 전월 국내외 이용실적 50만원 이상 시 제공"
+    ]
+  },
+  {
+    "id": 500054,
+    "name": "카드의정석2 오하CHECK",
+    "card": "check",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/6/4/a18fa6b9-fbce-4e42-bb98-ca45e43c9f52.png"],
+    "fee": 0,
+    "release": "2026-06-12",
+    "contents": [
+      "SHOPPING 5% 캐시백",
+      "쿠팡, 무신사, 지그재그, 안경/렌즈 5% 캐시백",
+      "EAT 5% 캐시백",
+      "배달의민족, 쿠팡이츠, B마트, 마켓컬리 5% 캐시백",
+      "PLAY 5% 캐시백",
+      "넷플릭스, 멜론, 공연티켓 5% 캐시백",
+      "LIFE 5% 캐시백",
+      "해외, 어학시험, 대중교통, 이동통신 5% 캐시백"
+    ]
+  },
+  {
+    "id": 500055,
+    "name": "카드의정석2 EVERYDAY CHECK",
+    "card": "check",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/6/12/4618526d-ded9-424c-92ba-a911997280d0.png"],
+    "fee": 0,
+    "release": "2026-06-12",
+    "contents": [
+      "국내/해외 가맹점 0.2% 적립",
+      "전월 실적 조건, 적립한도 제한 없음",
+      "우리WON페이 0.5% 추가 적립",
+      "",
+      "마트/슈퍼/커피/주유 1% 특별 적립",
+      "이마트, 스타벅스, SK주유소"
+    ]
+  },
+  {
+    "id": 500047,
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/6/1/fef88c65-3b9a-4f37-afa3-9c3a5f1e8b8e.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/6/5/5ed0faef-8af7-4fef-bf04-ce7e38478c2f.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/6/1/1a645630-a57d-448e-8663-bfd5bbf03f3e.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/6/5/c9b36f55-6e0b-4f1f-8190-df551b66d879.png"
+    ],
+    "name": "ZEROSE 우리카드",
+    "card": "plcc",
+    "fee": 30000,
+    "release": "2026-06-08",
+    "contents": ["Plus Chat 월 최대 18,000원 청구할인", "", "Mnet Plus Merch 20% 청구할인"]
+  },
+  {
+    "id": 500058,
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/4/30/1637ed89-cdbc-42b8-8d13-cae792908380.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/4/30/c211257d-b1c8-4f5f-919f-323a8a0fe198.png"
+    ],
+    "name": "카드의정석2 DAILY",
+    "card": "credit",
+    "fee": 25000,
+    "release": "2026-06-02",
+    "contents": [
+      "국내외 가맹점 1% 청구할인",
+      "※ 전월 실적 조건 없음",
+      "고정소비 5% 청구할인(식비/장보기/교통/통신)",
+      "※ 전월실적 50만원 이상 시 제공",
+      "정기결제 50% 청구할인",
+      "※ 전월실적 50만원 이상 시 제공"
+    ]
+  },
+  {
+    "id": 500045,
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/5/12/e3d64b76-65ff-4431-8137-b674b7f5f628.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/5/12/d417a34c-3b83-489c-8d02-510121f6250a.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/5/12/d3048027-edeb-42de-a686-f5f976ca3f59.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/5/12/d886a456-a1bc-4337-b5cf-24f87ad58119.png"
+    ],
+    "name": "카드의정석2 ROUTINE",
+    "card": "credit",
+    "fee": 28000,
+    "release": "2026-05-28",
+    "contents": [
+      "생활/통신 15% 할인",
+      "아파트관리비, 전기/가스요금,통신비 15% 청구할인<br>※전월실적 50만원 이상 시 제공",
+      "디지털구독 30% 할인",
+      "디지털구독 30% 청구할인<br>※ 전월실적 50만원 이상 시 제공",
+      "2~3개월 무이자 할부서비스",
+      "※ 전월실적 조건 없음"
+    ]
+  },
+  {
+    "id": 500039,
+    "name": "S-OIL 주유 400 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/4/22/f45f09bc-63df-43b9-9dea-27540914ccae.png"],
+    "fee": 25000,
+    "release": "2026-05-01",
+    "contents": [
+      "S-OIL 주유 청구할인",
+      "※ 전월실적 40만원 이상시 제공",
+      "편의점 7% 청구할인",
+      "※ 전월실적 40만원 이상시 제공",
+      "커피 7% 청구할인",
+      "※ 전월실적 40만원 이상시 제공",
+      "OTT 자동납부 7% 청구할인",
+      "※ 전월실적 40만원 이상시 제공"
+    ]
+  },
+  {
+    "id": 500040,
+    "name": "아정당 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/4/22/66268cd0-018c-45e9-90ed-36cba1f1ecdf.png"],
+    "fee": 23000,
+    "release": "2026-05-01",
+    "contents": ["아정당 서비스 가맹점 월 자동납부 요금 청구할인", "※ 전월실적 30만원 이상시 제공"]
+  },
+  {
+    "id": 500056,
+    "name": "U+ X 36 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/5/4/b1bbb38d-d689-4ee8-b3f0-4eb28539d27e.png"],
+    "fee": 25000,
+    "release": "2026-05-01",
+    "contents": ["LG U+ 통신요금 청구할인", "※ 전월실적 40만원 이상시 제공"]
+  },
+  {
+    "id": 500091,
+    "name": "LG헬로비전 언제나 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/4/27/50d032d4-23ee-4b2f-8088-a0ef6b442b24.png"],
+    "fee": 20000,
+    "release": "2026-05-01",
+    "contents": ["LG헬로비전 자동납부 청구할인", "※ 전월실적 30만원 이상시 제공"]
+  },
+  {
+    "id": 500044,
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/4/14/dd74c32a-8bc2-4fd3-a904-d77d693ec63d.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/4/14/1b4fa2be-3144-4803-b260-cda4b8d24da2.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/4/21/c72dfe7e-ea6c-4769-b74a-b1057a167a8e.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/4/21/ee1195bb-6117-4d19-aba1-a168eb2480d3.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/4/14/7566b5ad-f34a-41a3-9f9c-91ee8e3d21a5.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/4/14/c36c9448-10d2-4d35-b0ef-0cb25a9a34de.png"
+    ],
+    "name": "카드의정석2 SUPER",
+    "card": "credit",
+    "fee": 30000,
+    "release": "2026-04-16",
+    "contents": [
+      "국내외 가맹점 2.0% 청구할인",
+      "※ 전월 실적 조건 없음",
+      "2~3개월 무이자 할부 서비스",
+      "※ 전월 실적 조건 없음",
+      "해외수수료 면제 서비스",
+      "※ 국제브랜드사 수수료, 해외이용 수수료 면제"
+    ]
+  },
+  {
+    "id": 104151,
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/3/30/2a71941c-0bce-4dfa-9993-e84a24cde97b.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/3/30/d6a49f31-dc2a-485b-a06f-ce75f8a4c1db.png"
+    ],
+    "name": "카드의정석2 SHOPPER",
+    "card": "credit",
+    "fee": 28000,
+    "release": "2026-04-15",
+    "contents": [
+      "쇼핑 기본할인 10%",
+      "온·오프라인 쇼핑 10% 청구할인<br>※전월실적 50만원 이상 시 제공",
+      "쇼핑 추가할인 5%",
+      "주중 온라인/주말 오프라인 쇼핑 5% 추가 청구할인<br>※전월실적 50만원 이상 시 제공",
+      "쇼핑 멤버십 할인 50%",
+      "쇼핑 멤버십 50% 청구할인<br>※전월실적 50만원 이상 시 제공"
+    ]
+  },
+  {
+    "id": 500053,
+    "name": "카드의정석2 T-WON 체크",
+    "card": "check",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/3/25/a4e1300d-0cc5-48a9-97a9-ae00f86250ec.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/3/25/84622b5c-033a-4d61-ae80-b1a07ff791b3.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/3/25/39ed2eef-92b8-40db-9929-b3e70857a738.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/3/25/1a4c3f0e-7159-4171-8941-ec466b984fef.png"
+    ],
+    "fee": 0,
+    "release": "2026-04-01",
+    "contents": [
+      "온라인쇼핑, 간편결제 5% 캐시백",
+      "전월실적 20만원 이상 시 건당 최대 1천원까지 제공",
+      "스타벅스 사이렌오더, 배달 5% 캐시백",
+      "전월실적 20만원 이상 시 건당 최대 1천원까지 제공",
+      "OTT, 공연티켓 5% 캐시백",
+      "전월실적 20만원 이상 시 건당 최대 1천원까지 제공"
+    ]
+  },
+  {
+    "id": 104137,
+    "name": "수호천사 동양생명 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/3/12/cab38ba7-99e1-4387-b606-1d9985b54865.png"],
+    "fee": 20000,
+    "release": "2026-04-01",
+    "contents": ["동양생명 보험료 청구할인", "※ 전월실적 30만원 이상시 제공"]
+  },
+  {
+    "id": 500001,
+    "name": "카드의정석2 원더라이프",
+    "card": "credit",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/3/12/f7f80217-f5c9-4989-9aa2-da5cf31862ec.png"],
+    "fee": 25000,
+    "release": "2026-03-20",
+    "contents": [
+      "국내외 가맹점 1% 청구할인",
+      "전월 국내외 가맹점 이용실적 관계없이 할인 제공 (월 할인한도 제한 없음)",
+      "온라인/TV홈쇼핑, 생활/편의, 건강/의료 1.5% 청구할인",
+      "전월 국내외 가맹점 이용실적 50만원 이상 시 청구할인 제공",
+      "보험, 레저/여가, 주유, 해외 2.5% 청구할인",
+      "전월 국내외 가맹점 이용실적 50만원 이상 시 청구할인 제공"
+    ]
+  },
+  {
+    "id": 500002,
+    "name": "카드의정석2 원더라이프 CHECK",
+    "card": "check",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/3/12/66e1b125-7599-496c-98b1-84e886d748e0.png"],
+    "fee": 0,
+    "release": "2026-03-20",
+    "contents": [
+      "국내외 가맹점 0.2% 캐시백",
+      "전월 국내외 가맹점 이용실적 관계없이 캐시백 제공(월 캐시백한도 제한 없음)",
+      "온라인/TV홈쇼핑, 생활/편의, 건강/의료 0.5% 캐시백",
+      "전월 국내외 가맹점 이용실적 30만원 이상 시 캐시백 제공",
+      "보험, 레저/여가, 주유 영역 1% 캐시백",
+      "전월 국내외 가맹점 이용실적 30만원 이상 시 캐시백 제공"
+    ]
+  },
+  {
+    "id": 500010,
+    "name": "카드의정석2 AUTO",
+    "card": "credit",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/3/10/88b9f8ff-026a-4d03-8ed9-b3a7660495d4.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/3/10/d6ec0244-972e-4d3e-bf49-d2b358f4f17f.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/3/10/7f08905c-5558-48f3-816c-31d96a5031fc.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/3/10/7645dc4f-96a8-4289-96ae-7264698b06fd.png"
+    ],
+    "fee": 20000,
+    "release": "2026-03-13",
+    "contents": [
+      "자동차 할부 이용고객 월 납부금 청구할인",
+      "※ 전월 국내외 가맹점 이용실적 40만원 이상 시",
+      "주차비 2천원 청구할인",
+      "※ 전월 국내외 가맹점 이용실적 40만원 이상 시"
+    ]
+  },
+  {
+    "id": 500007,
+    "name": "the OPUS silver Biz",
+    "card": "prm",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/2/2/0cfd3526-e4bc-4f76-8310-965cc28c1aa8.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/2/2/71f4d2da-d24f-4599-928b-11ae406a6964.png"
+    ],
+    "fee": 150000,
+    "release": "2026-03-12",
+    "contents": [
+      "프리미엄 바우처 제공(10만원) (연1회, 택1)",
+      "①할인형 바우처<br>②프리미엄 호텔 외식 이용권<br>③신세계 상품권 모바일 교환권<br>※ 국내 이용실적 초년도 50만원, 차년도이후 600만원 이상 시 제공",
+      "국내 가맹점 1%, 특별 2~10% 포인트 적립",
+      "주유, 정기결제 및 해외 10%백화점, 온라인쇼핑 2% 적립<br>※ 전월 국내외 이용실적 50만원 이상 시 제공",
+      "국내외 공항라운지 무료(본인1인)",
+      "월 2회 연 4회<br>※ 전월 국내외 이용실적 50만원 이상 시 제공"
+    ]
+  },
+  {
+    "id": 500008,
+    "name": "카드의정석2 SIMPLE",
+    "card": "credit",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/2/11/44ed715a-f82e-427f-83ad-386fb615fb11.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/2/11/1cfa74b8-bb17-46ca-829b-647625864bd1.png"
+    ],
+    "fee": 7000,
+    "release": "2026-02-20",
+    "contents": [
+      "국내외 가맹점 0.8% 청구할인",
+      "※ 전월실적 조건 없음 ※ 할인 한도 제한 없음",
+      "Two-in-One 결제서비스(국내 체크 매출) 0.3% 청구할인",
+      "※ 전월실적 조건 없음 ※ 할인 한도 제한 없음"
+    ]
+  },
+  {
+    "id": 103496,
+    "name": "카드의정석2 ExK 체크",
+    "card": "check",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/1/20/87b12bb2-07c2-4a3f-bd8c-671764ef6caa.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/1/22/93c9bcdc-830a-4dd1-92b6-c08d57821625.png"
+    ],
+    "fee": 0,
+    "release": "2026-02-06",
+    "contents": [
+      "해외ATM 인출수수료 건당 500원",
+      " ",
+      "아웃백스테이크하우스 5천원 캐시백",
+      "전월실적 20만원 이상, 건당 5만원 이상 결제 시 제공",
+      "커피, 배달, 편의점 5% 캐시백",
+      "전월실적 20만원 이상 시 건당 최대 1천원내 제공"
+    ]
+  },
+  {
+    "id": 500004,
+    "name": "코웨이 ICON 우리카드",
+    "card": "plcc",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/1/23/83284600-f866-47ac-b284-0228c2ca8f46.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/2/2/486d9686-6d2b-4a8e-88ab-26498a7b66d4.png"
+    ],
+    "fee": 25000,
+    "release": "2026-02-01",
+    "contents": ["코웨이 렌탈요금 청구할인", "※ 전월실적 30만원 이상시 제공"]
+  },
+  {
+    "id": 104171,
+    "name": "스타트래블 우리카드",
+    "card": "plcc",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/3/19/fe3230a0-9c11-48b7-a868-be3a06b16dac.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/3/19/b8db1ad8-8694-4492-922e-e0003e596735.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/3/19/50384d02-6bcc-498b-a1ab-3271b808147e.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/3/19/9155857e-ebf6-4ed9-8d2d-88d762967ae7.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/3/19/0c3cbdef-2089-4967-b540-51c35e3521ae.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/3/19/c1b6a9b1-090d-422c-a59d-6a054f80f4e2.png"
+    ],
+    "fee": 28000,
+    "release": "2026-01-30",
+    "contents": [
+      "스타벅스 리워드 별 적립",
+      "2만원당 스타벅스 리워드 별 최대 3개 적립<br>※ 전월실적 30만원 이상 시 제공",
+      "일상 포인트 적립",
+      "국내 가맹점 2% 포인트 적립<br>※ 전월실적 30만원 이상 시 제공",
+      "해외 이용 수수료 면제 서비스",
+      "해외 서비스 및 국제 브랜드 수수료 면제<br>※ 전월실적 없음"
+    ]
+  },
+  {
+    "id": 104172,
+    "name": "아파트아이 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/1/23/a85b884f-15b7-461a-b589-509ab26acf25.png"],
+    "fee": 20000,
+    "release": "2026-01-30",
+    "contents": ["아파트관리비 청구할인", "※ 전월실적 50만원 이상시 제공"]
+  },
+  {
+    "id": 104176,
+    "name": "나비엔 구독 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/1/23/936c1b65-17aa-4356-8988-d5c99cd8b0da.png"],
+    "fee": 20000,
+    "release": "2026-01-30",
+    "contents": ["경동나비엔 구독료 자동납부 청구할인", "※ 전월 실적 30만원 이상시 제공"]
+  },
+  {
+    "id": 104168,
+    "name": "KT 36 Plus 우리카드",
+    "card": "plcc",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/2/27/c39d75c0-85dc-47a1-b79a-7360927a4cbe.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/2/2/0b658566-0644-4e37-8a1f-7dd73bece609.png"
+    ],
+    "fee": 25000,
+    "release": "2025-12-31",
+    "contents": ["KT 단말기 장기할부 서비스", " ", "KT 청구할인 서비스", "※ 전월실적 40만원 이상시 제공"]
+  },
+  {
+    "id": 104169,
+    "name": "LG전자 Platinum 우리카드",
+    "card": "plcc",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/2/2/8d8d4eea-a43c-4973-a543-c2e902237abd.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/2/2/cb81787e-c8d8-43ec-bb93-3802965168ee.png"
+    ],
+    "fee": 25000,
+    "release": "2025-12-31",
+    "contents": ["LG전자 구독요금 청구할인", "※ 전월실적 100만원 이상시 제공"]
+  },
+  {
+    "id": 104173,
+    "name": "LG헬로비전 우리집엔 우리카드",
+    "card": "plcc",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/1/30/a215342c-c3df-4266-8fef-ad6529b1eccd.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/1/30/c00cb866-36dc-4949-b6bf-20363ea215cb.png"
+    ],
+    "fee": 20000,
+    "release": "2025-12-31",
+    "contents": ["LG헬로비전 자동납부 청구할인", "※ 전월실적 30만원 이상시 제공"]
+  },
+  {
+    "id": 104167,
+    "name": "SK 주유 400 우리카드",
+    "card": "plcc",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/11/19/959fb474-327d-48d3-a1e8-54910259c4e5.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/11/19/d56f2a94-5a9f-4115-846a-2bf1e8a6fbd7.png"
+    ],
+    "fee": 25000,
+    "release": "2025-12-05",
+    "contents": ["SK주유소 주유 청구할인", "※ 전월실적 40만원 이상시 제공"]
+  },
+  {
+    "id": 104153,
+    "name": "우리카드 UniMile",
+    "card": "credit",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/11/17/38269167-f03a-4771-8a92-1d88a2b21019.png"],
+    "fee": 33000,
+    "release": "2025-11-28",
+    "contents": [
+      "해외/여행준비 2~6% 적립",
+      "※ 전월 이용실적 50만원 이상<br>※ 월 통합 적립한도 10만점 (단, 해외영역 적립한도 3만점)",
+      "간편결제,인앱결제 3% 할인",
+      "※ 전월 이용실적 50만원 이상 ※ 월 할인한도 3천원",
+      "국내 공항 라운지 무료 이용",
+      "※ 전월 이용실적 50만원 이상 ※ 연 2회 이용 가능"
+    ]
+  },
+  {
+    "id": 104146,
+    "name": "우리 GS칼텍스 55 화물복지카드",
+    "card": "plcc",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/9/30/a0016b15-123d-48c2-9531-de8f870ce327.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/9/30/986240ea-9ee4-42bc-a22c-6e2b6468876e.png"
+    ],
+    "fee": 0,
+    "release": "2025-11-24",
+    "contents": ["GS칼텍스 주유 할인", "현장할인 L당 55원"]
+  },
+  {
+    "id": 104156,
+    "name": "KREAM Platinum 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/1/7/91d523c7-715a-45a8-8b83-39f1048ed388.png"],
+    "fee": 22000,
+    "release": "2025-10-30",
+    "contents": [
+      "KREAM 이용금액 10% 청구할인",
+      "전월 국내외 이용실적 50만원 이상 시 제공",
+      "해외 이용금액 3% 청구할인",
+      "전월 국내외 이용실적 50만원 이상 시 제공",
+      "국내 고액매출 1-2% 청구할인",
+      "전월 KREAM 및 해외 가맹점 이용실적 50만원 이상 시 제공"
+    ]
+  },
+  {
+    "id": 103490,
+    "name": "위비트래블 J 체크카드",
+    "card": "check",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/10/10/120375ed-ef07-4b2f-9fc3-d78d6679e342.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/12/4/784bb5dc-6458-477d-91e6-f8bfc01d37d9.png"
+    ],
+    "fee": 0,
+    "release": "2025-10-13",
+    "contents": [
+      "일본 3대 편의점 50% 캐시백",
+      "전월실적 30만원 이상 시 반기 5천원 / 연 1만원 한도 내 제공",
+      "일본 커피/패스트푸드 50% 캐시백",
+      "전월실적 30만원 이상 시 반기 5천원 / 연 1만원 한도 내 제공",
+      "일본 오프라인 가맹점 10% 캐시백",
+      "전월실적 20만원 이상 시 건당 최대 1천원 내 제공"
+    ]
+  },
+  {
+    "id": 103500,
+    "name": "the OPUS silver",
+    "card": "prm",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/9/8/da771d9d-0fb8-4108-9809-853e2325dcde.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/9/8/363fb6f2-606c-4202-8799-ccba9417fa07.png"
+    ],
+    "fee": 150000,
+    "release": "2025-09-30",
+    "contents": [
+      "1차년도 12만원, 2차년도 이상 13만원 바우처 차등 혜택",
+      "①할인형 바우처 ②프리미엄 호텔 외식 이용권③신세계 상품권 모바일 교환권(연1회, 택1)",
+      "국내 가맹점 1%, 특별 2~3% 포인트 적립",
+      "항공, 호텔 및 해외 3%, 백화점, 온라인쇼핑 2% 적립※ 전월 국내외 이용실적 50만원 이상 시 제공",
+      "국내외 공항라운지 무료(동반1인 동시이용 가능)",
+      "통합 월 2회 연 4회※ 전월 국내외 이용실적 50만원 이상 시 제공"
+    ]
+  },
+  {
+    "id": 104154,
+    "name": "우리카드 MILE&POINT",
+    "card": "mile",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/9/1/2e88e914-91f7-458c-8afc-c2908ae8e14d.png"],
+    "fee": 75000,
+    "release": "2025-09-16",
+    "contents": [
+      "해외 가맹점 이용금액 1,500원당 최대 2마일리지 적립",
+      "※ 전월 이용실적 50만원 이상 ※ 월 추가 적립한도 2,000마일",
+      "항공마일리지와 포인트 동시 적립",
+      "※ 전월 이용실적 50만원 이상 ※ 월 포인트 적립한도 3만 포인트",
+      "국내외 1,000여개 공항라운지 무료 이용",
+      "※ 전월 이용실적 50만원 이상 ※ 연 2회(동반인 1인 포함)"
+    ]
+  },
+  {
+    "id": 104147,
+    "name": "세라젬 구독 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/11/3/ad34c931-6109-474b-b63e-10939e6df8d1.png"],
+    "fee": 20000,
+    "release": "2025-09-05",
+    "contents": ["세라젬 구독 자동납부 청구할인", "※ 전월실적 30만원 이상시 제공"]
+  },
+  {
+    "id": 103749,
+    "name": "T라이트 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/8/27/cb24ba0a-c232-49f8-abf1-16ca2f40c78a.png"],
+    "fee": 25000,
+    "release": "2025-07-31",
+    "contents": ["SKT 단말기 장기할부 서비스", "", "SKT 통신서비스 요금 청구할인"]
+  },
+  {
+    "id": 103564,
+    "name": "E1 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/6/30/fcb5c339-e64a-4380-a2be-40c7fa769808.png"],
+    "fee": 20000,
+    "release": "2025-07-18",
+    "contents": ["E1 우리카드 청구할인 서비스"]
+  },
+  {
+    "id": 103483,
+    "name": "갤러리아 Platinum 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/7/1/8c7b8c97-da72-4fff-a8c2-f31910e6c793.png"],
+    "fee": 30000,
+    "release": "2025-07-17",
+    "contents": [
+      "갤러리아 백화점 5~7% 청구할인",
+      "※ 전월실적 50만원 이상 시 제공",
+      "갤러리아 백화점 최대 6개월 무이자할부",
+      "※ 전월실적 50만원 이상 시 제공",
+      "교통, 배달앱, OTT 3% 청구할인",
+      "※ 전월실적 50만원 이상 시 제공"
+    ]
+  },
+  {
+    "id": 104123,
+    "name": "삼성AI구독 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/9/2/08234fb4-e95b-433d-be39-f654e74c51a4.png"],
+    "fee": 20000,
+    "release": "2025-07-15",
+    "contents": ["삼성AI구독 요금 청구할인 서비스", "※ 전월실적 30만원 이상시 제공"]
+  },
+  {
+    "id": 103750,
+    "name": "KT Plus 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/8/27/87647f87-f888-4036-98f4-3dc8c65becc9.png"],
+    "fee": 25000,
+    "release": "2025-06-30",
+    "contents": ["KT 단말기 장기할부 서비스", "", "KT 통신서비스 요금 청구할인"]
+  },
+  {
+    "id": 103755,
+    "name": "카드의정석2 7CORE",
+    "card": "credit",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/7/3/78dcd3a2-b140-4432-b7d4-47d5c02f76eb.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/7/3/d1a254db-dd92-4a77-ba85-7f7f13243d8f.png"
+    ],
+    "fee": 50000,
+    "release": "2025-06-05",
+    "contents": [
+      "온라인쇼핑, 대형마트, 배달앱 10% 청구할인",
+      "건당 2만원 이상 결제 시 할인<br>※ 전월 이용실적 50만원 이상 시 제공",
+      "커피 10% 청구할인",
+      "스타벅스, 투썸플레이스, 폴바셋, 이디야<br>※ 전월 이용실적 50만원 이상 시 제공",
+      "교육, 병원, 주유 10% 청구할인",
+      "학원/병원 업종, 교보문고/영풍문고, 4대 주유소<br>※ 전월 이용실적 50만원 이상 시 제공"
+    ]
+  },
+  {
+    "id": 103751,
+    "name": "U+ X 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/8/27/40e299a9-1a19-45e0-a631-7565c753655e.png"],
+    "fee": 25000,
+    "release": "2025-06-30",
+    "contents": ["LG U+ 단말기 장기할부 서비스", "", "LG U+ 통신서비스 요금 청구할인"]
+  },
+  {
+    "id": 102997,
+    "name": "카드의정석2",
+    "card": "credit",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/5/8/dd54fd62-c287-4bd2-a50a-f6705e7d7398.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/5/8/670dd9b0-3738-411d-934a-7c39e3700cfa.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/5/19/5e625731-394b-4187-8a86-04fe0e5b7f39.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/5/19/fa8f40a8-6458-4d5b-bb8b-4343079850e8.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/10/30/0bfd3710-dd53-435d-a64f-e0816b556e82.png"
+    ],
+    "fee": 22000,
+    "release": "2025-04-25",
+    "contents": [
+      "국내외 가맹점 1.2% 청구할인",
+      "전월 국내외 가맹점 이용실적 50만원 이상 시",
+      "분기별 이용실적에 따라 최대 15,000원 청구할인",
+      "분기별 국내외 가맹점 이용실적 300/600/900만원 이상 시"
+    ]
+  },
+  {
+    "id": 103759,
+    "name": "CJ ONE 우리체크",
+    "card": "check",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/12/18/d534bbc3-fb71-49e2-a75c-844bcc0c4068.png"],
+    "fee": 0,
+    "release": "2025-03-20",
+    "contents": ["CJ ONE 포인트 적립", "올리브영, CGV, 뚜레쥬르, 빕스, CJ온스타일"]
+  },
+  {
+    "id": 103757,
+    "name": "SK LPG 화물복지카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/12/17/68604e02-dcef-483a-967d-b32c051037d3.png"],
+    "fee": 0,
+    "release": "2025-02-21",
+    "contents": ["SK 충전소 LPG 충전할인"]
+  },
+  {
+    "id": 103457,
+    "name": "우리WON모바일 카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/11/8/5bb5097e-4371-42ac-b6ac-8a8f007e5534.png"],
+    "fee": 20000,
+    "release": "2025-02-14",
+    "contents": ["우리WON모바일 통신요금 할인", "전월실적에 따라 최대 1.5만원 할인 (전월실적 최소 40만원 부터)"]
+  },
+  {
+    "id": 102864,
+    "name": "K-패스 우리카드",
+    "card": "credit",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/12/17/b83f392f-4739-4bb8-bdd8-35a3ba36cc7e.png"],
+    "fee": 15000,
+    "release": "2024-12-30",
+    "contents": [
+      "국내 가맹점 0.3% 청구할인",
+      "전월 국내가맹점 40만원 이상",
+      "카페/편의점 10% 청구할인",
+      "전월 국내가맹점 40만원 이상",
+      "버스/지하철 10% 청구할인",
+      "전월 국내가맹점 40만원 이상"
+    ]
+  },
+  {
+    "id": 102865,
+    "name": "K-패스 우리카드(체크)",
+    "card": "check",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/12/17/01690ccd-4fa9-4e07-b1b9-203a1822d771.png"],
+    "fee": 0,
+    "release": "2024-12-30",
+    "contents": ["생활 혜택", "스타벅스/폴바셋/CU/GS25 10% 캐시백", "대중교통 혜택", "버스/지하철 10% 캐시백"]
+  },
+  {
+    "id": 103748,
+    "name": "모임WON CHECK",
+    "card": "check",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/10/25/3db0db8c-382d-40f2-bd85-1582281770a0.png"],
+    "fee": 0,
+    "release": "2024-12-19",
+    "contents": [
+      "모임 5% 캐시백",
+      "음식점·주점/카페/편의점(저녁 6~11시 결제 건)",
+      "갓생 5% 캐시백",
+      "헬스/뷰티/전자책",
+      "교통 5% 캐시백",
+      "택시/카셰어링"
+    ]
+  },
+  {
+    "id": 103747,
+    "name": "EVERY WON POINT",
+    "card": "credit",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/11/13/0e016cd7-7dc5-439c-8184-96aee0cf10ec.png"],
+    "fee": 12000,
+    "release": "2024-11-28",
+    "contents": [
+      "국내외 가맹점 0.8% 적립",
+      "전월실적, 적립한도 없음",
+      "국내 온라인 간편결제 2% 추가적립",
+      "우리WON페이, 네이버페이, 카카오페이"
+    ]
+  },
+  {
+    "id": 103737,
+    "name": "교원웰스 우리카드 Ⅱ",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/9/10/d20d2681-f040-4b7f-b050-7e4a7a6ccdd4.png"],
+    "fee": 20000,
+    "release": "2024-09-30",
+    "contents": ["웰스 렌탈요금/교원라이프 상조회비 청구할인", "전월 국내외 가맹점 이용실적 30만원 이상 시"]
+  },
+  {
+    "id": 103738,
+    "name": "현대렌탈케어 우리카드Ⅱ",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/9/10/38e1a179-7726-4ef3-bda1-13f267cdd437.png"],
+    "fee": 20000,
+    "release": "2024-09-30",
+    "contents": ["현대렌탈케어 렌탈요금 자동납부 청구할인", "전월 국내외 가맹점 이용실적 30만원 이상 시"]
+  },
+  {
+    "id": 102482,
+    "name": "카드의정석2 칼퇴 CHECK",
+    "card": "check",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/4/30/a7aca1a0-9d02-426c-b362-5b201a331ae2.gif"],
+    "fee": 0,
+    "release": "2024-09-23",
+    "contents": [
+      "칼퇴 5% 캐시백 (전월 국내외 가맹점 이용실적 30만원 이상 시 제공)",
+      "음식점·주점/카페/편의점(저녁 6~11시 결제 건)",
+      "갓생 5% 캐시백 (전월 국내외 가맹점 이용실적 30만원 이상 시 제공)",
+      "헬스/뷰티/전자책",
+      "교통 5% 캐시백 (전월 국내외 가맹점 이용실적 30만원 이상 시 제공)",
+      "대중교통/택시/카셰어링"
+    ]
+  },
+  {
+    "id": 103443,
+    "name": "우리 화물차유류구매카드(개인신용)",
+    "card": "credit",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/7/26/adac2ce8-2450-4ca4-8deb-6f8d415842f8.png"],
+    "fee": 0,
+    "release": "2024-08-26",
+    "contents": ["화물차우대주유소 안내", "", "주유할인 서비스"]
+  },
+  {
+    "id": 103727,
+    "name": "우리금융저축은행 I&U+",
+    "card": "credit",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/7/26/45b8cf2c-754d-4488-94c0-a993670657b1.png"],
+    "fee": 12000,
+    "release": "2024-08-01",
+    "contents": [
+      "국내 가맹점 1%~0.7% 청구할인",
+      "전월실적 조건, 할인 한도 제한 없음",
+      "주유 리터당 60~100원 청구할인",
+      "전월 국내 가맹점 이용실적 30만원 이상 시 제공",
+      "대중교통, 커피 10% 청구할인",
+      "전월 국내 가맹점 이용실적 30만원 이상 시 제공"
+    ]
+  },
+  {
+    "id": 103416,
+    "name": "카드의정석2 후불하이패스+",
+    "card": "credit",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/5/29/21ade54a-c37d-4402-95aa-b116587b3232.png"],
+    "fee": 2000,
+    "release": "2024-07-31",
+    "contents": ["평일 출퇴근 시간대 통행료", "20~50% 할인"]
+  },
+  {
+    "id": 103725,
+    "name": "청호나이스 우리카드Ⅱ",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/7/19/e3fb28ab-93a8-4cb3-a3ad-8870e7ff9e76.png"],
+    "fee": 15000,
+    "release": "2024-07-31",
+    "contents": ["청호나이스 청구할인 서비스", " ", "청호나이스 장기할부 서비스"]
+  },
+  {
+    "id": 103263,
+    "name": "현대렌탈서비스 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/1/9/2839ca7e-608a-4151-a28e-e925d5a43dc6.png"],
+    "fee": 20000,
+    "release": "2024-06-01",
+    "contents": ["현대렌탈서비스 청구할인 서비스", "전월 국내외 가맹점 이용실적 30만원 이상 시"]
+  },
+  {
+    "id": 103686,
+    "name": "카드의정석 TEN",
+    "card": "credit",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/9/30/142a2b05-fcaf-465b-806a-30c5a33e1fa6.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/9/30/df154cbe-b77e-4823-a385-f59820afb1ac.png"
+    ],
+    "fee": 12000,
+    "release": "2024-05-30",
+    "contents": ["커피, 편의점, 교통, 이동통신, 해외 10% 청구할인", "", "음식점/주점 및 온라인 간편결제 1% 청구할인"]
+  },
+  {
+    "id": 103489,
+    "name": "위비트래블 체크카드",
+    "card": "check",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/5/30/9a72bdbc-5da1-4a70-af71-6435162c676b.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/6/7/c1e8e1e3-e4b4-4bf1-9b6f-6869abf3cee0.png"
+    ],
+    "fee": 0,
+    "release": "2024-05-27",
+    "contents": [
+      "해외 가맹점 이용수수료 면제",
+      "",
+      "해외, 간편결제 5% 캐시백",
+      "",
+      "쿠팡, 배민, 스타벅스 사이렌오더 5% 캐시백"
+    ]
+  },
+  {
+    "id": 103458,
+    "name": "웅진프리드라이프 우리카드+",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/9/26/7507751c-7607-4a6b-bcb3-d6e358031af5.png"],
+    "fee": 12000,
+    "release": "2024-04-30",
+    "contents": ["웅진프리드라이프 자동납부 청구할인", "※ 전월실적 30만원 이상시 제공"]
+  },
+  {
+    "id": 103418,
+    "name": "CORPORATE Soho",
+    "card": "credit",
+    "corp": true,
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/8/14/3c5070b7-59ce-45bf-b1f5-a7d11abf4436.png"],
+    "fee": 10000,
+    "release": "2024-04-26",
+    "contents": [
+      "기본 할인",
+      "특별 할인 가맹점 외 모든 국내 가맹점 0.3% 청구할인",
+      "특별 할인",
+      "",
+      "개인사업자 세무 지원 서비스"
+    ]
+  },
+  {
+    "id": 102734,
+    "name": "하이마트 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/3/25/2b37ff18-b688-4fdf-9022-805cce06c139.png"],
+    "fee": 18000,
+    "release": "2024-03-04",
+    "contents": [
+      "하이마트 장기할부 서비스",
+      " ",
+      "하이마트 청구할인 서비스",
+      "전월 국내외 가맹점 이용실적 30만원 이상 시"
+    ]
+  },
+  {
+    "id": 102496,
+    "name": "ROYAL BLUE M",
+    "card": "prm",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/2/20/c4dadd60-d486-4062-8eea-76241bd6b403.png"],
+    "fee": 300000,
+    "release": "2024-02-29",
+    "contents": [
+      "프리미엄 기프트",
+      "기프트 바우처 제공(연 1회)",
+      "국내 가맹점 1% 적립",
+      "전월 실적, 적립한도 없이 국내 1% 적립",
+      "국내외 공항라운지 서비스",
+      "본인+동반 1인까지 무료 이용(월 2회, 연 4회)"
+    ]
+  },
+  {
+    "id": 103305,
+    "name": "D4카드의정석Ⅱ",
+    "card": "credit",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/2/21/93f66875-8894-4dc6-abc4-223110e92691.png"],
+    "fee": 12000,
+    "release": "2024-02-29",
+    "contents": [
+      "55% 청구할인",
+      "커피 4대 브랜드 스타벅스, 투썸플레이스, 폴바셋, 커피빈 55% 청구할인",
+      "33% 청구할인",
+      "시내버스, 지하철(후불교통기능 선택 시), 택시 건당 최대 2,200원 청구할인",
+      "11% 청구할인",
+      "편의점 건당 할인한도 1,100원"
+    ]
+  },
+  {
+    "id": 102717,
+    "name": "카드의정석 I&U+",
+    "card": "credit",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/2/13/5821f274-3022-4802-af9a-679e54570789.png"],
+    "fee": 12000,
+    "release": "2024-02-26",
+    "contents": [
+      "국내 가맹점 1%~0.7% 청구할인",
+      "전월실적 조건, 할인 한도 없음",
+      "주유 리터당 60~100원 청구할인",
+      "전월 국내 이용실적 30만원 이상 시 제공",
+      "대중교통, 커피 10% 청구할인",
+      "전월 국내 이용실적 30만원 이상 시 제공"
+    ]
+  },
+  {
+    "id": 102098,
+    "name": "KREAM 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/3/25/abf405ca-ad17-465b-bed0-683c9745507b.png"],
+    "fee": 20000,
+    "release": "2024-01-02",
+    "contents": [
+      "KREAM 이용금액 2% 청구할인",
+      "전월 국내외 가맹점 이용실적 30만원 이상 시 혜택 제공",
+      "국내외 가맹점 이용금액 0.5% 청구할인",
+      "전월 실적 조건 및 할인한도 제한 없음"
+    ]
+  },
+  {
+    "id": 103117,
+    "name": "KREAM 체크카드",
+    "card": "check",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/11/6/c7c17b8a-3f88-4bc4-b14b-3e622edbadc7.png"],
+    "fee": 0,
+    "release": "2023-12-26",
+    "contents": [
+      "KREAM 이용금액 5% 청구할인",
+      "전월 국내외 가맹점 이용실적 20만원 이상 시 혜택 제공",
+      "국내외 가맹점 이용금액 0.2% 청구할인",
+      "전월 실적 조건 없음"
+    ]
+  },
+  {
+    "id": 102733,
+    "name": "CORPORATE Mile SKYPASS 개인사업자",
+    "card": "mile",
+    "corp": true,
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/8/14/3463b084-c18d-46e9-a48c-418328d1b2c3.png"],
+    "fee": 10000,
+    "release": "2023-12-23",
+    "contents": [
+      "SKYPASS 마일리지 적립 서비스",
+      "국내외 가맹점 이용금액 1,500원당 스카이패스 1마일리지 적립",
+      "주유 할인",
+      "HD현대오일뱅크, S-OIL(LPG충전소 제외) 리터당 20원 청구할인"
+    ]
+  },
+  {
+    "id": 102719,
+    "name": "카드의정석 DON CHECK",
+    "card": "check",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2023/11/30/ae13d193-539e-4920-aca5-211690444698.png"],
+    "fee": 0,
+    "release": "2023-12-13",
+    "contents": [
+      "DO EAT",
+      "편의점, 배달의민족 5% 적립",
+      "DO BUY",
+      "쿠팡, 무신사 5% 적립",
+      "DO PLAY",
+      "구글 Play 스토어, 애플 App Store 5% 적립"
+    ]
+  },
+  {
+    "id": 102857,
+    "name": "쿠쿠 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2023/12/15/03e58911-930d-4d9d-ad89-082f17ce870e.png"],
+    "fee": 15000,
+    "release": "2023-12-11",
+    "contents": ["쿠쿠 청구할인 서비스", "", "쿠쿠 장기할부 서비스"]
+  },
+  {
+    "id": 102859,
+    "name": "SK인텔릭스 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/10/31/1292cc20-1a01-4c2f-9926-d2bd791483c5.png"],
+    "fee": 15000,
+    "release": "2023-12-07",
+    "contents": ["SK인텔릭스 구독 자동납부 청구할인", "※ 전월실적 30만원 이상시 제공"]
+  },
+  {
+    "id": 102535,
+    "name": "LG전자 우리카드",
+    "card": "plcc",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2023/12/14/41a2e4bc-de43-4f62-a41a-b9dcca5653d5.png"],
+    "fee": 15000,
+    "release": "2023-11-22",
+    "contents": [
+      "LG전자 구독요금 청구할인",
+      "※ 전월 이용실적 30만원 이상",
+      "LG전자 24/36개월 장기할부",
+      "※ LG베스트샵 제품 10만원 이상 결제 시"
+    ]
+  },
+  {
+    "id": 103187,
+    "name": "ALL 우리카드 Infinite",
+    "card": "prm",
+    "img": [
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2023/10/25/9b9a4d71-1542-4811-b684-c7bca2a15f26.png",
+      "https://m.wooricard.com/webcontent/cdPrdImgFileList/2023/10/25/2e725fa9-7074-4dfa-bb59-95ba2f98a2ff.png"
+    ],
+    "fee": 500000,
+    "release": "2023-11-07",
+    "contents": [
+      "아코르 서비스",
+      "14,000 ALL 리워드 포인트 제공 · 아코르 플러스 유료 멤버십 가입 · ALL 멤버십 회원 GOLD 등급 제공 및 업그레이드",
+      "ALL 리워드 포인트 적립",
+      "이용금액 당 최대 5 ALL 리워드 포인트 적립",
+      "Premium Service",
+      "공항라운지 무료이용 · KAL 리무진 버스 무료이용 · 국내 지정 골프장 무료커피 및 무료타석권 제공 · 아코르 호텔 프리미엄 서비스 제공"
+    ]
+  },
+  {
+    "id": 103188,
+    "name": "ALL 우리카드 Premium",
+    "card": "prm",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2023/10/25/39540e77-3984-4959-bc43-45ce84cb501f.png"],
+    "fee": 150000,
+    "release": "2023-11-07",
+    "contents": [
+      "아코르 서비스",
+      "4,000 ALL 리워드 포인트 제공 · ALL 멤버십 회원 SILVER 등급 제공 및 업그레이드",
+      "ALL 리워드 포인트 적립",
+      "이용금액 당 최대 3 ALL 리워드 포인트 적립",
+      "Premium Service",
+      "공항라운지 무료이용 · KAL 리무진 버스 무료이용 · 아코르 호텔 프리미엄 서비스 제공"
+    ]
+  },
+  {
+    "id": 102996,
+    "name": "CORPORATE Point",
+    "card": "credit",
+    "corp": true,
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/8/14/10806d04-de58-4dd9-9365-3cb2e3112b27.png"],
+    "fee": 5000,
+    "release": "2023-09-20",
+    "contents": ["포인트 적립 서비스", "※ 전월실적 조건 없음"]
+  },
+  {
+    "id": 102492,
+    "name": "카드의정석2 SHOPPING+",
+    "card": "credit",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/9/1/1b80f9f2-00d6-4632-a729-d55312125cfe.png"],
+    "fee": 10000,
+    "release": "2023-09-04",
+    "contents": [
+      "온라인 쇼핑 10% 청구할인",
+      "※ 전월 이용실적 30만원 이상",
+      "오프라인 쇼핑 10% 청구할인",
+      "※ 전월 이용실적 30만원 이상",
+      "4대 PAY 5% 추가할인",
+      "※ 전월 이용실적 30만원 이상"
+    ]
+  },
+  {
+    "id": 103116,
+    "name": "카드의정석 LCK 우리체크",
+    "card": "check",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/6/20/22593be6-6873-4dfc-a851-fcfc85f320bc.png"],
+    "fee": 0,
+    "release": "2023-08-21",
+    "contents": [
+      "국내외 가맹점 0.2% 적립",
+      "전월실적, 적립한도 없음",
+      "전월실적에 따라 최대 3천원 추가 적립",
+      "30만원 이용 시마다 1천원 추가적립",
+      "4대 일상영역 중 한 곳 1만원 적립",
+      "공연티켓, 놀이공원/워터파크, 영화관, 여행"
+    ]
+  },
+  {
+    "id": 102488,
+    "name": "카드의정석 EVERY MILE SKYPASS",
+    "card": "mile",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2025/8/18/82421e2c-4447-42b4-88bc-2cf410cf511c.png"],
+    "fee": 39000,
+    "release": "2023-07-23",
+    "contents": [
+      "대한항공 SKYPASS 마일리지 적립",
+      "이용금액 1천원당 1마일리지 적립",
+      "해외수수료 면제",
+      "국제브랜드사 수수료 1%,해외이용 수수료 0.3% 면제",
+      "국내 공항라운지 무료이용 서비스",
+      "연 2회 제공(동반 1인 동시 이용가능) 전월 국내가맹점 이용실적 50만원 이상 시 제공"
+    ]
+  },
+  {
+    "id": 102722,
+    "name": "트래블월렛 우리카드",
+    "card": "credit",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2024/11/6/50eabcba-2d40-4c72-b3e2-2ad611e84e9c.png"],
+    "fee": 20000,
+    "release": "2023-07-07",
+    "contents": [
+      "트래블 포인트 최대 2.0% 적립",
+      "적립한도 없이 국내 1.0%, 해외 2.0% 적립",
+      "해외 이용 수수료 1.4% 면제",
+      "해외서비스 수수료, 국제브랜드 수수료 면제"
+    ]
+  },
+  {
+    "id": 102033,
+    "name": "Diners Club POINT",
+    "card": "prm",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2022/7/28/c3fec3c4-aa31-4ae7-a16c-350cb350d13b.png"],
+    "fee": 300000,
+    "release": "2022-08-29",
+    "contents": [
+      "국내외 공항라운지 연 20회 무료이용",
+      "전월 국내 이용실적 50만원 이상 시 제공",
+      "프리미엄 기프트",
+      "공항라운지 이용권, 여행 할인권, 신세계 상품권 모바일 교환권, 신라면세점 선불카드 교환쿠폰, 포인트 적립"
+    ]
+  },
+  {
+    "id": 100860,
+    "name": "국민행복카드S2",
+    "card": "credit",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2021/4/1/7c85fc81-a050-4e33-a3ff-dd5155e3bc29.png"],
+    "fee": 0,
+    "release": "2021-03-02",
+    "contents": [
+      "5%",
+      "쇼핑/생활업종 할인",
+      "7%",
+      "의료(임신·출산) / 보육(교육) 업종 할인",
+      "20%",
+      "언택트 라이프 업종 할인"
+    ]
+  },
+  {
+    "id": 100861,
+    "name": "국민행복 체크카드S2",
+    "card": "check",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2021/4/1/395e15fa-f200-482c-b791-2dc277b87688.png"],
+    "fee": 0,
+    "release": "2021-03-02",
+    "contents": [
+      "2%",
+      "쇼핑/생활업종 캐시백",
+      "3%",
+      "의료(임신·출산) / 보육(교육) 업종 캐시백",
+      "10%",
+      "언택트 라이프 업종 캐시백"
+    ]
+  },
+  {
+    "id": 833841,
+    "name": "ROYAL BLUE MILEAGE [SKYPASS]",
+    "card": "prm",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/resizeImg/833841_Large.png"],
+    "fee": 330000,
+    "release": "2019-03-18",
+    "contents": [
+      "국내가맹점 이용금액 초년도 50만원, 2차년도 부터는 전년도 또는 당해년도 500만원 이상 시 제공",
+      "아시아동반자왕복항공권, 호텔외식통합이용권, 스타벅스e카드교환권, 신세계상품권모바일교환권(연1회, 택1)",
+      "국내외 공항라운지 무료",
+      "※ 전월 국내 가맹점 이용금액 50만원 이상 시 제공",
+      "이용금액 1,000원당 대한항공 마일리지 적립",
+      "※ 전월 국내 가맹점 이용금액 30만원 이상 시 제공"
+    ]
+  },
+  {
+    "id": 835453,
+    "name": "FC EXPRESS CHECK",
+    "card": "check",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/resizeImg/835453_Large.png"],
+    "fee": 0,
+    "release": "2019-01-02",
+    "contents": [
+      "해외이용금액 외화결제 서비스",
+      "해외이용금액 외화결제계좌 달러 인출",
+      "면제",
+      "해외가맹점 이용 시 이용수수료 면제",
+      "0.3%",
+      "국내 전가맹점 0.3% 모아포인트 적립"
+    ]
+  },
+  {
+    "id": 227977,
+    "name": "그랑블루 체크카드",
+    "card": "check",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/resizeImg/227977_Large.png"],
+    "fee": 100000,
+    "release": "2015-12-14",
+    "contents": [
+      "공항라운지",
+      "국내외 공항라운지 무료 이용 서비스",
+      "선택형 기프트",
+      "매년 연회비 상당의 7가지 선택형 기프트 제공",
+      "프리미엄서비스",
+      "여행, 골프, 라이프스타일에서 체크카드로 누리는 프리미엄서비스"
+    ]
+  }
+]
