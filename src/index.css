@@ -115,15 +115,12 @@ footer {
   padding: 0.5rem;
   padding-bottom: max(env(safe-area-inset-bottom), 0.5rem);
   background-color: #333c;
-  div {
+  nav {
     width: 30rem;
     max-width: 30rem;
     display: flex;
     gap: 0.5rem;
-    input[type='radio'] {
-      display: none;
-    }
-    label {
+    button {
       flex-grow: 1;
       text-align: center;
       display: inline-block;
@@ -132,8 +129,10 @@ footer {
       border-radius: 0.5rem;
       padding: 0.5rem;
       font-weight: bold;
+      cursor: pointer;
+      font-size: 1rem;
     }
-    label:has(input:checked) {
+    button.active {
       background-color: var(--theme);
       color: white;
     }
