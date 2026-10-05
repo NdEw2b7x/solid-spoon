@@ -18,11 +18,11 @@ export default function Footer({ selectedCard, onSelectCard }: FooterProps) {
     <footer>
       <div>
         {tabs.map(({ value, label }, index) => (
-          <label htmlFor={`tab-${index + 1}`} key={value}>
+          <label htmlFor={`tab${index + 1}`} key={value}>
             <input
               type="radio"
               name="tab"
-              id={`tab-${index + 1}`}
+              id={`tab${index + 1}`}
               value={value}
               checked={selectedCard === value}
               onChange={() => onSelectCard(value)}

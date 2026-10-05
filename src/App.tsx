@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import prds from '../lib/card.json'
 import Footer from './footer'
 import type { CardType } from '../types'
@@ -14,45 +15,56 @@ interface Card {
 }
 
 export default function App() {
-  prds.forEach(({ img, contents, fee, release, name, id, corp, card }: Card) => {
-    let imgnode = ''
-    img.forEach(e => {
-      imgnode += `<img src="${e}" loading="lazy" height="160">`
-    })
-    let contentsNode = ''
-    contents.forEach(e => {
-      contentsNode += `<span>${e}</span>`
-    })
-    const fee_ = Number(fee) > 99999 ? fee / 10000 + '만원' : fee == 0 ? '없음' : fee / 1000 + ',000원'
-    const web = corp
-      ? `https://m.wooricard.com/dcmw/yh2/bcd/bcd01/cdadv/M2BCD201S01.do?cdPrdCd=${id}`
-      : `https://m.wooricard.com/dcmw/yh1/crd/crd01/M1CRD101S02.do?recomNo=${id}`
-    // if (type == card) {
-    if ('credit' == card) {
-      if (!document.querySelector('main#content')) return new Error('main#content is null')
-      document.querySelector('main#content')!.innerHTML += `<div data-container="card" data-card="${card}">
-                <div class="card-title">${name}</div>
-                <div class="card-img">${imgnode}</div>
-                <div class="card-summary">
-                  <span>연회비</span><span>${fee_}</span>
-                  <span>출시일</span><span>${release}</span>
-                </div>
-                <div class="card-bottom">${contentsNode}</div>
-                <div class="card-url">
-                  <a href="${web}" target="_blank">홈페이지</a>
-                  <a href="https://m.wooricard.com/dcmw/yh1/mlk/mlk05/M1MLK205S02.do?cdPrdCd=${id}" target="_blank">상품안내장</a>
-                </div>
-              </div>`
-    }
-  })
-
+  const [type, setType] = useState<CardType>('credit')
   return (
     <>
-      <main id="content"></main>
+      <main id="content">
+        {prds.map(({ card, id, name, img, contents, fee, release, corp }: Card) => {
+          if (type == card) {
+            return (
+              <div key={id} data-container="card" data-card={card}>
+                <div className="card-title">${name}</div>
+                <div className="card-img">
+                  $
+                  {img.map(src => (
+                    <img src={src} loading="lazy" height="160" />
+                  ))}
+                </div>
+                <div className="card-summary">
+                  <span>연회비</span>
+                  <span>${Number(fee) > 99999 ? fee / 10000 + '만원' : fee == 0 ? '없음' : fee / 1000 + ',000원'}</span>
+                  <span>출시일</span>
+                  <span>${release}</span>
+                </div>
+                <div className="card-bottom">
+                  {contents.map(e => (
+                    <span>{e}</span>
+                  ))}
+                </div>
+                <div className="card-url">
+                  <a
+                    href={
+                      corp
+                        ? `https://m.wooricard.com/dcmw/yh2/bcd/bcd01/cdadv/M2BCD201S01.do?cdPrdCd=${id}`
+                        : `https://m.wooricard.com/dcmw/yh1/crd/crd01/M1CRD101S02.do?recomNo=${id}`
+                    }
+                    target="_blank"
+                  >
+                    홈페이지
+                  </a>
+                  <a href={`https://m.wooricard.com/dcmw/yh1/mlk/mlk05/M1MLK205S02.do?cdPrdCd=${id}`} target="_blank">
+                    상품안내장
+                  </a>
+                </div>
+              </div>
+            )
+          }
+        })}
+      </main>
       <Footer
-        selectedCard={'credit'}
-        onSelectCard={(card: CardType) => {
-          throw new Error('Function not implemented.')
+        selectedCard={type}
+        onSelectCard={(type: CardType) => {
+          setType(type)
         }}
       />
     </>
