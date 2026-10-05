@@ -1,111 +1,141 @@
 :root {
-  --text: #6b6375;
-  --text-h: #08060d;
-  --bg: #fff;
-  --border: #e5e4e7;
-  --code-bg: #f4f3ec;
-  --accent: #aa3bff;
-  --accent-bg: rgba(170, 59, 255, 0.1);
-  --accent-border: rgba(170, 59, 255, 0.5);
-  --social-bg: rgba(244, 243, 236, 0.5);
-  --shadow:
-    rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px;
-
-  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --mono: ui-monospace, Consolas, monospace;
-
-  font: 18px/145% var(--sans);
-  letter-spacing: 0.18px;
-  color-scheme: light dark;
-  color: var(--text);
-  background: var(--bg);
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-
-  @media (max-width: 1024px) {
-    font-size: 16px;
-  }
+  background-color: #222;
+  --theme: #2589f4;
+  scroll-snap-type: y mandatory;
+  scroll-padding-top: 0.5rem;
 }
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --text: #9ca3af;
-    --text-h: #f3f4f6;
-    --bg: #16171d;
-    --border: #2e303a;
-    --code-bg: #1f2028;
-    --accent: #c084fc;
-    --accent-bg: rgba(192, 132, 252, 0.15);
-    --accent-border: rgba(192, 132, 252, 0.5);
-    --social-bg: rgba(47, 48, 58, 0.5);
-    --shadow:
-      rgba(0, 0, 0, 0.4) 0 10px 15px -3px, rgba(0, 0, 0, 0.25) 0 4px 6px -2px;
-  }
-
-  #social .button-icon {
-    filter: invert(1) brightness(2);
-  }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:
+    'NanumSquare',
+    -apple-system,
+    sans-serif;
+  word-break: keep-all;
 }
-
-#root {
-  width: 1126px;
-  max-width: 100%;
-  margin: 0 auto;
-  text-align: center;
-  border-inline: 1px solid var(--border);
-  min-height: 100svh;
+main {
+  max-width: 30rem;
+  margin: auto;
+  padding: 0.5rem;
+}
+#content {
   display: flex;
   flex-direction: column;
-  box-sizing: border-box;
+  gap: 0.5rem;
 }
+div[data-container='card'] {
+  scroll-snap-align: start;
+  border: 0.1rem solid var(--theme);
+  border-radius: 0.5rem;
+  background-color: #eee;
 
-body {
-  margin: 0;
-}
-
-h1,
-h2 {
-  font-family: var(--heading);
-  font-weight: 500;
-  color: var(--text-h);
-}
-
-h1 {
-  font-size: 56px;
-  letter-spacing: -1.68px;
-  margin: 32px 0;
-  @media (max-width: 1024px) {
-    font-size: 36px;
-    margin: 20px 0;
+  overflow: hidden;
+  > div {
+    border-bottom: 0.1rem solid var(--theme);
+    padding: 0.5rem;
+  }
+  div:last-child {
+    border: none;
   }
 }
-h2 {
-  font-size: 24px;
-  line-height: 118%;
-  letter-spacing: -0.24px;
-  margin: 0 0 8px;
-  @media (max-width: 1024px) {
-    font-size: 20px;
+.card-title {
+  background-color: var(--theme);
+  color: white;
+  text-align: center;
+  font-weight: bolder;
+}
+.card-img {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  overflow: scroll;
+  img {
+    max-height: 10rem;
   }
 }
-p {
-  margin: 0;
+.card-summary {
+  padding: 0 !important;
+  display: flex;
+  justify-content: space-between;
+  span {
+    padding: 0.5rem;
+    text-align: center;
+    flex-grow: 1;
+  }
+  span:nth-child(2n-1) {
+    background-color: var(--theme);
+    color: white;
+  }
 }
-
-code,
-.counter {
-  font-family: var(--mono);
-  display: inline-flex;
-  border-radius: 4px;
-  color: var(--text-h);
+.card-bottom {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
 }
+.card-url {
+  display: flex;
+  gap: 0.5rem;
+  a {
+    flex: 1;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
 
-code {
-  font-size: 15px;
-  line-height: 135%;
-  padding: 4px 8px;
-  background: var(--code-bg);
+    border-radius: 0.2rem;
+    padding: 0.5rem;
+    background-color: var(--theme);
+
+    color: white;
+    font-size: 0.8rem;
+  }
+}
+div[data-container='img'] {
+  display: flex;
+  gap: 0.2rem;
+  img {
+    max-height: 7rem;
+    height: 100%;
+  }
+}
+.card-bottom span:nth-of-type(2n) {
+  color: gray;
+  margin-bottom: 0.3rem;
+  font-size: 0.8rem;
+}
+.card-bottom span:last-child {
+  margin-bottom: 0;
+}
+footer {
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 0.5rem;
+  padding-bottom: max(env(safe-area-inset-bottom), 0.5rem);
+  background-color: #333c;
+  div {
+    width: 30rem;
+    max-width: 30rem;
+    display: flex;
+    gap: 0.5rem;
+    input[type='radio'] {
+      display: none;
+    }
+    label {
+      flex-grow: 1;
+      text-align: center;
+      display: inline-block;
+      background-color: white;
+      border: 0.1rem solid var(--theme);
+      border-radius: 0.5rem;
+      padding: 0.5rem;
+      font-weight: bold;
+    }
+    label:has(input:checked) {
+      background-color: var(--theme);
+      color: white;
+    }
+  }
 }
