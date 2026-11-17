@@ -1,5 +1,49 @@
 [
   {
+    "id": 500108,
+    "name": "Npay 우리 체크카드",
+    "card": "check",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/10/8/f1fe6280-1541-405e-9051-fc7d0b3fca38.png","https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/10/8/cec8e229-94bf-49ab-bd5c-dab118ea7d66.png"],
+    "fee": 0,
+    "release": "2026-10-21",
+    "contents": [
+      "Npay 포인트 적립", "국내외 가맹점 0.5% Npay 포인트 적립",
+      "해외 서비스", "해외 이용 수수료 면제",
+    ]
+  },
+  {
+    "id": 500102,
+    "name": "THE SHOPPER",
+    "card": "premium",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/9/14/69afb67c-ba14-4bf5-a59e-c2597b528348.png","https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/9/14/4ac7393e-3def-4860-9e8d-c4bbbc7c90b3.png"],
+    "fee": 200000,
+    "release": "2026-09-30",
+    "contents": [
+      "국내외 가맹점 1% 적립",
+      "※전월실적 및 적립한도 없음",
+      "쇼핑, 생활, 멤버십 3~30% 적립",
+      "※전월실적 50만원 이상 시 제공",
+      "THE SHOPPER 무이자할부전환(3/6개월)",
+      "※전월실적 50만원 이상 시 제공"
+    ]
+  },
+  {
+    "id": 500106,
+    "name": "카드의정석2 PAY",
+    "card": "credit",
+    "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/9/7/a21cde02-db6d-4afd-9f01-5a5002fcc3e3.png","https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/9/7/e6d9c3ad-a145-4cb4-97a9-1c71c262d144.png"],
+    "fee": 22000,
+    "release": "2026-09-30",
+    "contents": [
+      "간편결제 최대 15% 청구할인",
+      "우리WON페이, 네이버페이, 카카오페이, 토스페이",
+      "정기결제 30% 할인",
+      "디지털 콘텐츠/멤버십 ※ 전월실적 40만원 이상 시 제공",
+      "생활 5% 할인",
+      "배달의민족, 무신사, 올리브영, 다이소 등 ※ 전월실적 40만원 이상 시 제공시"
+    ]
+  },
+  {
     "id": 500107,
     "name": "카드의정석2 SOLID",
     "card": "credit",
