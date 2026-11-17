@@ -14,7 +14,7 @@
   {
     "id": 500102,
     "name": "THE SHOPPER",
-    "card": "premium",
+    "card": "prm",
     "img": ["https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/9/14/69afb67c-ba14-4bf5-a59e-c2597b528348.png","https://m.wooricard.com/webcontent/cdPrdImgFileList/2026/9/14/4ac7393e-3def-4860-9e8d-c4bbbc7c90b3.png"],
     "fee": 200000,
     "release": "2026-09-30",
